@@ -1,11 +1,3 @@
-//
-//  LSCPUMonitor.h
-//  F2F
-//
-//  Created by demo on 2020/12/16.
-//  Copyright © 2020 Facebook. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN
