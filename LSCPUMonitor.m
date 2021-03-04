@@ -1,11 +1,3 @@
-//
-//  LSCPUMonitor.m
-//  F2F
-//
-//  Created by demo on 2020/12/16.
-//  Copyright © 2020 Facebook. All rights reserved.
-//
-
 #import "LSCPUMonitor.h"
 #import <mach/mach.h>
 #import <UIKit/UIKit.h>
